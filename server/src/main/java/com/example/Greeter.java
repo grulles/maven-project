@@ -1,4 +1,4 @@
-package com.example;
+package-pipeline com.example;
 
 /**
  * This is a class.

@@ -1,4 +1,4 @@
 /**
  * This is a java package info file.
  */
-package com.example;
+package-pipeline com.example;

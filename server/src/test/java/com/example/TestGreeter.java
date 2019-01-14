@@ -1,4 +1,4 @@
-package com.example;
+package-pipeline com.example;
 
 import org.junit.Before;
 import org.junit.Test;
